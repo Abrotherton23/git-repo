@@ -1,1 +1,1 @@
-Welcome to my git repository! I created it to learn and show how far i have been able to come on my journies. This will be where i commit all my practice codes using terraform and python.
+Welcome to my git repository! I created it to learn and show how far i have been able to come on my journies. This will be where i commit all my practice codes using terraform and python. Both Practices will be placed between 2 seprate branches to help with the organization of the codes.
