@@ -1,4 +1,4 @@
-/*
+
 locals {
   time = formatdate("DD MMM YYYY hh:mm ZZZ", timestamp())
 }
@@ -36,4 +36,3 @@ resource "aws_instance" "app-dev" {
 output "timestamp" {
   value = local.time
 }
-*/

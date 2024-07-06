@@ -1,4 +1,4 @@
-/*
+
 resource "aws_security_group" "allow_tls" {
   name        = "terraform-firewall"
   description = "Managed from Terraform"
@@ -27,4 +27,3 @@ resource "aws_vpc_security_group_ingress_rule" "ftp_port" {
   ip_protocol       = "tcp"
   to_port           = var.ftp_port
 }
-*/
